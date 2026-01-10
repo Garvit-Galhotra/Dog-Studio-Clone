@@ -1,3 +1,12 @@
+# Learning about what is Three.js
+
+1. Scene
+2. Camera
+3. Materials
+4. Lights
+
+# Understanding the Code
+
 import * as THREE from "three";
 
 const scene = new THREE.Scene();
